@@ -25,7 +25,7 @@ SECRET_KEY = '*p!3cnvq*h=90t$y0-o8y#8j93q962a-yz8dwoz6t^h1he8xk5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-vidly.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
