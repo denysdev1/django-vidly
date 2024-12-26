@@ -8,6 +8,8 @@ django = "*"
 pylint-django = "*"
 django-tastypie = "*"
 gunicorn = "*"
+whitenoise = {extras = ["brotli"], version = "*"}
+uvicorn = "*"
 
 [dev-packages]
 
