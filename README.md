@@ -2,6 +2,8 @@
 
 A Django web application for managing a movie rental service. View the live demo at [https://django-vidly.onrender.com](https://django-vidly.onrender.com) (Note: Initial load may take up to 2 minutes as the service spins up).
 
+![image](https://github.com/user-attachments/assets/dc0728fb-cfcf-4513-badb-128891cf183a)
+
 ## Features
 
 - Browse available movies with their details
